@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\ref\02. Pounds to Dollars.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\ref\02. Pounds to Dollars.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\ref\02. Common Elements.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\ref\02. Common Elements.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.genruntimeconfig.cache

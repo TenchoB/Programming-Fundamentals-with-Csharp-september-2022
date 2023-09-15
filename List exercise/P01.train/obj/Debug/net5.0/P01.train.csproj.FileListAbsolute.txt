@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\bin\Debug\net5.0\P01.train.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\bin\Debug\net5.0\P01.train.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\bin\Debug\net5.0\P01.train.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\bin\Debug\net5.0\P01.train.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\bin\Debug\net5.0\P01.train.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\bin\Debug\net5.0\ref\P01.train.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\bin\Debug\net5.0\P01.train.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\obj\Debug\net5.0\P01.train.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\obj\Debug\net5.0\P01.train.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\obj\Debug\net5.0\P01.train.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\obj\Debug\net5.0\P01.train.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\obj\Debug\net5.0\P01.train.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\obj\Debug\net5.0\P01.train.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\obj\Debug\net5.0\ref\P01.train.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\obj\Debug\net5.0\P01.train.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\P01.train\obj\Debug\net5.0\P01.train.genruntimeconfig.cache

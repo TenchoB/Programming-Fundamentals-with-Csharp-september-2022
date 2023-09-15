@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\bin\Debug\net5.0\Lab Intro and Basic Syntax.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\bin\Debug\net5.0\Lab Intro and Basic Syntax.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\bin\Debug\net5.0\Lab Intro and Basic Syntax.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\bin\Debug\net5.0\Lab Intro and Basic Syntax.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\bin\Debug\net5.0\Lab Intro and Basic Syntax.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\bin\Debug\net5.0\ref\Lab Intro and Basic Syntax.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\bin\Debug\net5.0\Lab Intro and Basic Syntax.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\obj\Debug\net5.0\Lab Intro and Basic Syntax.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\obj\Debug\net5.0\Lab Intro and Basic Syntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\obj\Debug\net5.0\Lab Intro and Basic Syntax.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\obj\Debug\net5.0\Lab Intro and Basic Syntax.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\obj\Debug\net5.0\Lab Intro and Basic Syntax.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\obj\Debug\net5.0\Lab Intro and Basic Syntax.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\obj\Debug\net5.0\ref\Lab Intro and Basic Syntax.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\obj\Debug\net5.0\Lab Intro and Basic Syntax.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\Lab Intro and Basic Syntax\obj\Debug\net5.0\Lab Intro and Basic Syntax.genruntimeconfig.cache

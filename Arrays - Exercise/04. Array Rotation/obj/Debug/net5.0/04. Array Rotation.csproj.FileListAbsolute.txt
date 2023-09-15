@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\ref\04. Array Rotation.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\ref\04. Array Rotation.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.genruntimeconfig.cache

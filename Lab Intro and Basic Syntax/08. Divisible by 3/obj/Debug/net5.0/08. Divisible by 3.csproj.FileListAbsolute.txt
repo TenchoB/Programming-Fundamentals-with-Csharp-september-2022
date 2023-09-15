@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\bin\Debug\net5.0\ref\08. Divisible by 3.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\bin\Debug\net5.0\08. Divisible by 3.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\obj\Debug\net5.0\ref\08. Divisible by 3.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\08. Divisible by 3\obj\Debug\net5.0\08. Divisible by 3.genruntimeconfig.cache

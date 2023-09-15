@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\bin\Debug\net5.0\List exercise.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\bin\Debug\net5.0\List exercise.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\bin\Debug\net5.0\List exercise.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\bin\Debug\net5.0\List exercise.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\bin\Debug\net5.0\List exercise.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\bin\Debug\net5.0\ref\List exercise.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\bin\Debug\net5.0\List exercise.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\obj\Debug\net5.0\List exercise.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\obj\Debug\net5.0\List exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\obj\Debug\net5.0\List exercise.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\obj\Debug\net5.0\List exercise.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\obj\Debug\net5.0\List exercise.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\obj\Debug\net5.0\List exercise.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\obj\Debug\net5.0\ref\List exercise.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\obj\Debug\net5.0\List exercise.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\List exercise\List exercise\obj\Debug\net5.0\List exercise.genruntimeconfig.cache

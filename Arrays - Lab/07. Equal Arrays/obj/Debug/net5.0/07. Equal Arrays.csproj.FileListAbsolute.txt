@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\ref\07. Equal Arrays.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\ref\07. Equal Arrays.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.genruntimeconfig.cache

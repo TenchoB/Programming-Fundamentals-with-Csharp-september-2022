@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\ref\03. Exact Sum of Real Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\ref\03. Exact Sum of Real Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.genruntimeconfig.cache

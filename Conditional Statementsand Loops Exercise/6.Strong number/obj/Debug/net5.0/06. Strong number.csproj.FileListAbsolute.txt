@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\bin\Debug\net5.0\ref\06. Strong number.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\bin\Debug\net5.0\06. Strong number.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\obj\Debug\net5.0\ref\06. Strong number.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\06. Strong number\obj\Debug\net5.0\06. Strong number.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\bin\Debug\net5.0\13. Holidays Between Two D.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\bin\Debug\net5.0\13. Holidays Between Two D.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\bin\Debug\net5.0\13. Holidays Between Two D.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\bin\Debug\net5.0\13. Holidays Between Two D.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\bin\Debug\net5.0\13. Holidays Between Two D.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\bin\Debug\net5.0\ref\13. Holidays Between Two D.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\bin\Debug\net5.0\13. Holidays Between Two D.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\obj\Debug\net5.0\13. Holidays Between Two D.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\obj\Debug\net5.0\13. Holidays Between Two D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\obj\Debug\net5.0\13. Holidays Between Two D.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\obj\Debug\net5.0\13. Holidays Between Two D.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\obj\Debug\net5.0\13. Holidays Between Two D.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\obj\Debug\net5.0\13. Holidays Between Two D.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\obj\Debug\net5.0\ref\13. Holidays Between Two D.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\obj\Debug\net5.0\13. Holidays Between Two D.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\13. Holidays Between Two D\obj\Debug\net5.0\13. Holidays Between Two D.genruntimeconfig.cache

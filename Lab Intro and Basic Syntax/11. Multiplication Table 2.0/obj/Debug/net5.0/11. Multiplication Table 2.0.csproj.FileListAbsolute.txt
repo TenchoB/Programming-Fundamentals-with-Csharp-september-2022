@@ -1,0 +1,15 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\bin\Debug\net5.0\11. Multiplication Table 2.0.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\bin\Debug\net5.0\11. Multiplication Table 2.0.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\bin\Debug\net5.0\11. Multiplication Table 2.0.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\bin\Debug\net5.0\11. Multiplication Table 2.0.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\bin\Debug\net5.0\11. Multiplication Table 2.0.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\bin\Debug\net5.0\ref\11. Multiplication Table 2.0.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\bin\Debug\net5.0\11. Multiplication Table 2.0.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\obj\Debug\net5.0\11. Multiplication Table 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\obj\Debug\net5.0\11. Multiplication Table 2.0.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\obj\Debug\net5.0\11. Multiplication Table 2.0.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\obj\Debug\net5.0\11. Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\obj\Debug\net5.0\11. Multiplication Table 2.0.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\obj\Debug\net5.0\ref\11. Multiplication Table 2.0.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\obj\Debug\net5.0\11. Multiplication Table 2.0.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\11. Multiplication Table 2.0\obj\Debug\net5.0\11. Multiplication Table 2.0.genruntimeconfig.cache

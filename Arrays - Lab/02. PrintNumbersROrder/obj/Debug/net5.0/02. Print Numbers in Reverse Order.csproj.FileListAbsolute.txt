@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\ref\02. Print Numbers in Reverse Order.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\ref\02. Print Numbers in Reverse Order.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.genruntimeconfig.cache

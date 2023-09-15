@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\bin\Debug\net5.0\ref\01. Train.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\obj\Debug\net5.0\ref\01. Train.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.genruntimeconfig.cache

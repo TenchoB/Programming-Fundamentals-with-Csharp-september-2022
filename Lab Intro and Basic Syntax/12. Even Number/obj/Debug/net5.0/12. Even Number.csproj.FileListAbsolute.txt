@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\bin\Debug\net5.0\12. Even Number.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\bin\Debug\net5.0\12. Even Number.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\bin\Debug\net5.0\12. Even Number.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\bin\Debug\net5.0\12. Even Number.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\bin\Debug\net5.0\12. Even Number.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\bin\Debug\net5.0\ref\12. Even Number.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\bin\Debug\net5.0\12. Even Number.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\obj\Debug\net5.0\12. Even Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\obj\Debug\net5.0\12. Even Number.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\obj\Debug\net5.0\12. Even Number.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\obj\Debug\net5.0\12. Even Number.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\obj\Debug\net5.0\12. Even Number.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\obj\Debug\net5.0\ref\12. Even Number.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\obj\Debug\net5.0\12. Even Number.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\obj\Debug\net5.0\12. Even Number.genruntimeconfig.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\12. Even Number\obj\Debug\net5.0\12. Even Number.csproj.AssemblyReference.cache

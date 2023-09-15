@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\bin\Debug\net5.0\ref\04. Back In 30 Minutes.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\bin\Debug\net5.0\04. Back In 30 Minutes.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\net5.0\ref\04. Back In 30 Minutes.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\04. Back In 30 Minutes\obj\Debug\net5.0\04. Back In 30 Minutes.genruntimeconfig.cache

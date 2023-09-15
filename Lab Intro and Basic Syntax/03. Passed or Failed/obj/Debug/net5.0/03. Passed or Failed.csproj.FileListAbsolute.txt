@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\bin\Debug\net5.0\ref\03. Passed or Failed.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\bin\Debug\net5.0\03. Passed or Failed.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\obj\Debug\net5.0\ref\03. Passed or Failed.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\03. Passed or Failed\obj\Debug\net5.0\03. Passed or Failed.genruntimeconfig.cache

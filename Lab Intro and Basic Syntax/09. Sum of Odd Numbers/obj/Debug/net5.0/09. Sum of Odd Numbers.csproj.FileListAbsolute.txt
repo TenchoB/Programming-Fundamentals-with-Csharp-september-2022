@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\bin\Debug\net5.0\09. Sum of Odd Numbers.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\bin\Debug\net5.0\09. Sum of Odd Numbers.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\bin\Debug\net5.0\09. Sum of Odd Numbers.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\bin\Debug\net5.0\09. Sum of Odd Numbers.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\bin\Debug\net5.0\09. Sum of Odd Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\bin\Debug\net5.0\ref\09. Sum of Odd Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\bin\Debug\net5.0\09. Sum of Odd Numbers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\obj\Debug\net5.0\09. Sum of Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\obj\Debug\net5.0\09. Sum of Odd Numbers.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\obj\Debug\net5.0\09. Sum of Odd Numbers.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\obj\Debug\net5.0\09. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\obj\Debug\net5.0\09. Sum of Odd Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\obj\Debug\net5.0\ref\09. Sum of Odd Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\obj\Debug\net5.0\09. Sum of Odd Numbers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\obj\Debug\net5.0\09. Sum of Odd Numbers.genruntimeconfig.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\09. Sum of Odd Numbers\obj\Debug\net5.0\09. Sum of Odd Numbers.csproj.AssemblyReference.cache

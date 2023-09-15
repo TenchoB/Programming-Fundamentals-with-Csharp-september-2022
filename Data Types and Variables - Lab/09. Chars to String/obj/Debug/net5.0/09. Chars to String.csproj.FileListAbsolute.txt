@@ -1,0 +1,15 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\ref\09. Chars to String.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\ref\09. Chars to String.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.genruntimeconfig.cache

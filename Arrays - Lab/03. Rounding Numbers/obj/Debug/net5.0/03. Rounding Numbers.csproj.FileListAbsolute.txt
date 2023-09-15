@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\ref\03. Rounding Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\bin\Debug\net5.0\03. Rounding Numbers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\ref\03. Rounding Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\03. Rounding Numbers\obj\Debug\net5.0\03. Rounding Numbers.genruntimeconfig.cache

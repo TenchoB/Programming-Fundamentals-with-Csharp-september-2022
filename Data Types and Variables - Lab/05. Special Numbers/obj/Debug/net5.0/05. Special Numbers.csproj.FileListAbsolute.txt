@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\ref\05. Special Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\ref\05. Special Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.genruntimeconfig.cache

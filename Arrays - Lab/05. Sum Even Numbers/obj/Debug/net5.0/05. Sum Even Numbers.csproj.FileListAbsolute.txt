@@ -1,0 +1,15 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\ref\05. Sum Even Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\ref\05. Sum Even Numbers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.genruntimeconfig.cache

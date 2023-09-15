@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\Data Types and Variables - Lab.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\Data Types and Variables - Lab.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\Data Types and Variables - Lab.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\Data Types and Variables - Lab.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\Data Types and Variables - Lab.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\ref\Data Types and Variables - Lab.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\Data Types and Variables - Lab.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\Data Types and Variables - Lab.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\Data Types and Variables - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\Data Types and Variables - Lab.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\Data Types and Variables - Lab.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\Data Types and Variables - Lab.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\Data Types and Variables - Lab.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\ref\Data Types and Variables - Lab.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\Data Types and Variables - Lab.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\Data Types and Variables - Lab.genruntimeconfig.cache

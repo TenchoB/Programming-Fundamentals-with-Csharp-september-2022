@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\bin\Debug\net5.0\07. Theatre Promotion.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\bin\Debug\net5.0\07. Theatre Promotion.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\bin\Debug\net5.0\07. Theatre Promotion.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\bin\Debug\net5.0\07. Theatre Promotion.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\bin\Debug\net5.0\07. Theatre Promotion.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\bin\Debug\net5.0\ref\07. Theatre Promotion.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\bin\Debug\net5.0\07. Theatre Promotion.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\obj\Debug\net5.0\07. Theatre Promotion.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\obj\Debug\net5.0\07. Theatre Promotion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\obj\Debug\net5.0\07. Theatre Promotion.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\obj\Debug\net5.0\07. Theatre Promotion.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\obj\Debug\net5.0\07. Theatre Promotion.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\obj\Debug\net5.0\07. Theatre Promotion.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\obj\Debug\net5.0\ref\07. Theatre Promotion.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\obj\Debug\net5.0\07. Theatre Promotion.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\07. Theatre Promotion\obj\Debug\net5.0\07. Theatre Promotion.genruntimeconfig.cache

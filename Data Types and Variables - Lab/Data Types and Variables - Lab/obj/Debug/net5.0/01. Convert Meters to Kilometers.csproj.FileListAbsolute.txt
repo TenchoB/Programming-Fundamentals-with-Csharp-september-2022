@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\01. Convert Meters to Kilometers.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\01. Convert Meters to Kilometers.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\01. Convert Meters to Kilometers.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\01. Convert Meters to Kilometers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\ref\01. Convert Meters to Kilometers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\bin\Debug\net5.0\01. Convert Meters to Kilometers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\01. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\01. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\01. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\01. Convert Meters to Kilometers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\ref\01. Convert Meters to Kilometers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\01. Convert Meters to Kilometers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Data Types and Variables - Lab\Data Types and Variables - Lab\obj\Debug\net5.0\01. Convert Meters to Kilometers.genruntimeconfig.cache

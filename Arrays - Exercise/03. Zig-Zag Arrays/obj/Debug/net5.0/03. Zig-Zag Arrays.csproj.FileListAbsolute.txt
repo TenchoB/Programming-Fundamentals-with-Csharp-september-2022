@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\ref\03. Zig-Zag Arrays.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\ref\03. Zig-Zag Arrays.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.genruntimeconfig.cache

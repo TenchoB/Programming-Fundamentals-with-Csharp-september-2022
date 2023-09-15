@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\bin\Debug\net5.0\05. Login.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\bin\Debug\net5.0\05. Login.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\bin\Debug\net5.0\05. Login.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\bin\Debug\net5.0\05. Login.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\bin\Debug\net5.0\05. Login.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\bin\Debug\net5.0\ref\05. Login.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\bin\Debug\net5.0\05. Login.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\obj\Debug\net5.0\05. Login.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\obj\Debug\net5.0\05. Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\obj\Debug\net5.0\05. Login.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\obj\Debug\net5.0\05. Login.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\obj\Debug\net5.0\05. Login.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\obj\Debug\net5.0\05. Login.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\obj\Debug\net5.0\ref\05. Login.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\obj\Debug\net5.0\05. Login.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\05. Login\obj\Debug\net5.0\05. Login.genruntimeconfig.cache

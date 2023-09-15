@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\bin\Debug\net5.0\02. Division.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\bin\Debug\net5.0\02. Division.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\bin\Debug\net5.0\02. Division.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\bin\Debug\net5.0\02. Division.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\bin\Debug\net5.0\02. Division.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\bin\Debug\net5.0\ref\02. Division.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\bin\Debug\net5.0\02. Division.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\obj\Debug\net5.0\02. Division.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\obj\Debug\net5.0\02. Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\obj\Debug\net5.0\02. Division.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\obj\Debug\net5.0\02. Division.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\obj\Debug\net5.0\02. Division.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\obj\Debug\net5.0\02. Division.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\obj\Debug\net5.0\ref\02. Division.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\obj\Debug\net5.0\02. Division.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\02. Division\obj\Debug\net5.0\02. Division.genruntimeconfig.cache

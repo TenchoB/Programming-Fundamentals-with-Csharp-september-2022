@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\ref\06. Equal Sum.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\ref\06. Equal Sum.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Lab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.genruntimeconfig.cache

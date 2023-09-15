@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\bin\Debug\net5.0\11. Orders.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\bin\Debug\net5.0\11. Orders.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\bin\Debug\net5.0\11. Orders.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\bin\Debug\net5.0\11. Orders.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\bin\Debug\net5.0\11. Orders.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\bin\Debug\net5.0\ref\11. Orders.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\bin\Debug\net5.0\11. Orders.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\obj\Debug\net5.0\11. Orders.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\obj\Debug\net5.0\11. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\obj\Debug\net5.0\11. Orders.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\obj\Debug\net5.0\11. Orders.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\obj\Debug\net5.0\11. Orders.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\obj\Debug\net5.0\11. Orders.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\obj\Debug\net5.0\ref\11. Orders.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\obj\Debug\net5.0\11. Orders.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Conditional Statements and Loops Exercise\11. Orders\obj\Debug\net5.0\11. Orders.genruntimeconfig.cache

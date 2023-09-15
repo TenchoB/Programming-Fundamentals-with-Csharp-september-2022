@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\ref\05. Top Integers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\ref\05. Top Integers.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.genruntimeconfig.cache

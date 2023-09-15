@@ -1,0 +1,16 @@
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\obj\Debug\net5.0\05. Month Printer.csproj.AssemblyReference.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\obj\Debug\net5.0\05. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\obj\Debug\net5.0\05. Month Printer.AssemblyInfoInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\obj\Debug\net5.0\05. Month Printer.AssemblyInfo.cs
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\obj\Debug\net5.0\05. Month Printer.csproj.CoreCompileInputs.cache
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\bin\Debug\net5.0\05. Month Printer.exe
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\bin\Debug\net5.0\05. Month Printer.deps.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\bin\Debug\net5.0\05. Month Printer.runtimeconfig.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\bin\Debug\net5.0\05. Month Printer.runtimeconfig.dev.json
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\bin\Debug\net5.0\05. Month Printer.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\bin\Debug\net5.0\ref\05. Month Printer.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\bin\Debug\net5.0\05. Month Printer.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\obj\Debug\net5.0\05. Month Printer.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\obj\Debug\net5.0\ref\05. Month Printer.dll
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\obj\Debug\net5.0\05. Month Printer.pdb
+D:\Visiul Studio projects\Programming Fundamentals with C# - септември 2022\Lab Intro and Basic Syntax\05. Month Printer\obj\Debug\net5.0\05. Month Printer.genruntimeconfig.cache
